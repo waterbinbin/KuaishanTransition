@@ -56,6 +56,7 @@
             [strongSelf rightPush];
         }
     };
+    //
     [self.interactiveTransitionPush addPanGestureForViewController:self];
 }
 
