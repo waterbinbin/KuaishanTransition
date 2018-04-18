@@ -377,4 +377,3 @@
 效果图如下：
 ![demo效果图](https://upload-images.jianshu.io/upload_images/5333476-f16cfaf804cfeefa.gif?imageMogr2/auto-orient/strip)
 
-[demo的github链接](https://www.jianshu.com/p/45434f73019e)
